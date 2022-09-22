@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/PocketDimension.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/FirstFloorPrison.unity
+    guid: 383dd8cf8f8f8a24a88624eae3e5035f
+  - enabled: 1
+    path: Assets/Scenes/SecondFloorCourtyard.unity
+    guid: e3862bd50a618144e92cf473b34bdb6a
+  - enabled: 1
+    path: Assets/Scenes/ThirdFloorKitchen.unity
+    guid: dbf59d6870ffe5343bc9559a68d4f797
+  - enabled: 1
+    path: Assets/Scenes/FourthFloorThroneRoom.unity
+    guid: e91ac77362e4a2a4c8f49094dc2935f0
   m_configObjects: {}
